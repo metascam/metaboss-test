@@ -1,0 +1,18 @@
+{
+    "name": "Sniper Pass #114",
+    "symbol": "CLCR",
+    "uri": "https://img-cdn.magiceden.dev/rs:fill:640:640:0:0/plain/https://arweave.net/khw75IaKWCgNfKrXWl6S_R7Kj3OrJZlS48ZjjiU-igA?ext=png",
+    "seller_fee_basis_points": 100,
+    "creators": [
+        {
+            "address": "7ou4izSmNqdWnasRksYgLuAWi7FVBMe5gxyXaUCPWoBM",
+            "verified": true,
+            "share": 0
+        },
+        {
+            "address": "mGr29c6NxmCqr6vwLsusC32UMkBocDpyk97DzuNsQDa",
+            "verified": true,
+            "share": 50
+        }
+    ]
+}
