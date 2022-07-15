@@ -1,0 +1,60 @@
+{
+  "name": "OG FLOWERS #727",
+  "symbol": "OGFLOWERS",
+  "description": "OG Flowers the Genesis Collection of the SOL Flowers world. A collection of 1,111 hand drawn NFT's comprised of 79 traits over 8 categories. All OG's are rare but only a few will produce Genesis Seeds. Visit https://solflowers.io",
+  "seller_fee_basis_points": 2000,
+  "image": "https://img-cdn.magiceden.dev/rs:fill:640:640:0:0/plain/https://arweave.net/M9z9tzhTgXZ1Sd-eGDZ3ZVJIpTHzslaOVjqIX_aKeOQ",
+  "attributes": [
+    {
+            "trait_type": "Background",
+            "value": "Gray"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Volt"
+        },
+        {
+            "trait_type": "Pot",
+            "value": "Volt"
+        },
+        {
+            "trait_type": "Petals",
+            "value": "Yellow Orange"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Cheese Blunt"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Kangol Orange"
+        },
+        {
+            "trait_type": "Prop",
+            "value": "None"
+        },
+        {
+            "trait_type": "Wings",
+            "value": "None"
+        },
+        {
+            "trait_type": "City",
+            "value": "MIA"
+        }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "mGr29c6NxmCqr6vwLsusC32UMkBocDpyk97DzuNsQDa",
+        "share": 100
+      }
+    ]
+  }
+}
