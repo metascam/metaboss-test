@@ -1,0 +1,28 @@
+{
+  "name": "Liberty Square: Pre-Reveal #6295",
+  "symbol": "LS",
+  "description": "1-888-Git-Rekt",
+  "seller_fee_basis_points": 2000,
+  "image": "https://bafybeidsinpptyrlrboqcnkd44tyhtwpffmhhpk57efr3qdwsc2plffqdq.ipfs.nftstorage.link/6295.png?ext=png",
+  "attributes": [
+    {
+      "trait_type": "Pre Reveal :",
+      "value": "Liberty Square 1012"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "mGr29c6NxmCqr6vwLsusC32UMkBocDpyk97DzuNsQDa",
+        "share": 100
+      }
+    ]
+  }
+}
