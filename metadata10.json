@@ -1,0 +1,63 @@
+{
+  "name": "The Reflection of Love #4802",
+  "symbol": "TML",
+  "description": "The Reflection of Love | Tomorrowland",
+  "seller_fee_basis_points": 500,
+  "image": "https://bafybeigthluf3q4qkxbc7bafmg3sgj7cwsb6z7tj4vkcl4nfcg47t2rh24.ipfs.nftstorage.link/4802.png?ext=png"",
+  "animation_url": "https://bafybeicozx42tfs25vwrlaef6yglbzykffyzwztckejctstbwgrtwpimqu.ipfs.nftstorage.link/6097.mp4",
+  "external_url": "https://nft.tomorrowland.com",
+  "attributes": [
+     {
+            "trait_type": "Background",
+            "value": "Spotlight Green"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Bronze"
+        },
+        {
+            "trait_type": "Crystal",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Energy",
+            "value": "Radiating Energy"
+        },
+        {
+            "trait_type": "Main Lamps",
+            "value": "Warm Lamps 3"
+        },
+        {
+            "trait_type": "Mirror",
+            "value": "Diamond Mirror"
+        },
+        {
+            "trait_type": "Mood Lights",
+            "value": "Cold Mood"
+        },
+        {
+            "trait_type": "Orrery",
+            "value": "No Orrery"
+        },
+        {
+            "trait_type": "Statue",
+            "value": "Greenlandic Sodalite"
+        }
+  ],
+  
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "mGr29c6NxmCqr6vwLsusC32UMkBocDpyk97DzuNsQDa",
+        "share": 100
+      }
+    ]
+  }
+}
