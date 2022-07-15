@@ -1,0 +1,85 @@
+{
+  "name": "Liberty Square Pre-Reveal #7240 (LS)",
+  "symbol": "LS",
+  "description": "A collection of 9,999 NFTs on Solana. Series 1 of 3. 1-888-Git-Rekt",
+  "seller_fee_basis_points": 440,
+  "image": "https://bafybeidl67zx65xjro6qnvc3hw6a4m4z2h7zofddmwdivxlckqhbh5d3sa.ipfs.nftstorage.link/7240.png?ext=png",
+  "external_url": "https://www.libertysquare.io",
+  "attributes": [
+    {
+      "trait_type": "Gang:",
+      "value": "The Reapers"
+    },
+    {
+      "trait_type": "IAID:",
+      "value": "266666"
+    },
+    {
+      "trait_type": "Primary Background:",
+      "value": "Vintage Aqua"
+    },
+    {
+      "trait_type": "Secondary Background:",
+      "value": "Snowdrift"
+    },
+    {
+      "trait_type": "Splatter:",
+      "value": "None"
+    },
+    {
+      "trait_type": "Tail:",
+      "value": "Standard Tail"
+    },
+    {
+      "trait_type": "Body:",
+      "value": "Standard Body"
+    },
+    {
+      "trait_type": "Weapon #1:",
+      "value": "\"Slugger\""
+    },
+    {
+      "trait_type": "Weapon #2:",
+      "value": "Flash Bang"
+    },
+    {
+      "trait_type": "Pants:",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Gear Style:",
+      "value": "Tactical Suit"
+    },
+    {
+      "trait_type": "Chest Gear:",
+      "value": "Tactical Vest"
+    },
+    {
+      "trait_type": "Eye Color:",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Eye Patch:",
+      "value": "Pirate Bay"
+    },
+    {
+      "trait_type": "Hat:",
+      "value": "Gray Military"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "mGr29c6NxmCqr6vwLsusC32UMkBocDpyk97DzuNsQDa",
+        "share": 100
+      }
+    ]
+  }
+}
