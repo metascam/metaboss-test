@@ -1,0 +1,77 @@
+{
+  "name": "LS: Sinister Squirrel Syn #2279",
+  "symbol": "LS",
+  "description": "A collection of 9,999 NFTs on Solana. Series 1 of 3. 1-888-Git-Rekt",
+  "seller_fee_basis_points": 2000,
+  "image": "https://bafybeib7b7qdqeup6swqvsmxgylmtgxzhbvtd5kxua3vm2xflpoipyut6y.ipfs.nftstorage.link/2279.png?ext=png",
+  "external_url": "https://www.libertysquare.io",
+  "attributes": [
+    {
+            "trait_type": "Gang:",
+            "value": "Oak Street Boys Brawler"
+        },
+        {
+            "trait_type": "IAID:",
+            "value": "266666"
+        },
+        {
+            "trait_type": "Primary Background:",
+            "value": "Vintage Snowdrift"
+        },
+        {
+            "trait_type": "Secondary Background:",
+            "value": "Aqua"
+        },
+        {
+            "trait_type": "Splatter:",
+            "value": "Flesh Wound"
+        },
+        {
+            "trait_type": "Body:",
+            "value": "Standard"
+        },
+        {
+            "trait_type": "Pants:",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Eyes:",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Shirt:",
+            "value": "Red Track Jacket"
+        },
+        {
+            "trait_type": "Weapon 1:",
+            "value": "Warhammer"
+        },
+        {
+            "trait_type": "Weapon 2:",
+            "value": "Ball Peen"
+        },
+        {
+            "trait_type": "Fixation:",
+            "value": "Cigarette"
+        },
+        {
+            "trait_type": "Hat:",
+            "value": "Kangol"
+        }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "mGr29c6NxmCqr6vwLsusC32UMkBocDpyk97DzuNsQDa",
+        "share": 100
+      }
+    ]
+  }
+}
