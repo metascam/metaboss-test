@@ -1,0 +1,36 @@
+{
+  "name": "AI Degen # 242",
+  "symbol": "aidegens",
+  "description": "Beyond your Imaginations 🧠",
+  "seller_fee_basis_points": 250,
+  "image": "https://nftstorage.link/ipfs/QmTFo9jVdLui8X1L2idY9VnmGWUg1AqyD31vKf5urE73cz/1579.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Fuzzy Black"
+    },
+    {
+      "trait_type": "Vibes",
+      "value": "Temple Of Ai"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Futuristic Helmet"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "mGr29c6NxmCqr6vwLsusC32UMkBocDpyk97DzuNsQDa",
+        "share": 100
+      }
+    ]
+  }
+}
