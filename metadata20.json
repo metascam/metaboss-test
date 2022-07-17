@@ -1,0 +1,57 @@
+{
+  "name": "Exodragon #1991",
+  "symbol": "exomon",
+  "description": "The latest in Exosuit technology, the Exodragon, is highly sought after for their ease of programmability, advanced functionality, and a level of software security not available in the rest of their Exo-brethren. A casualty of long waitlists and exorbitant prices, every tech and Exosuit enthusiast dreams of the day they can get their hands on one of these.",
+  "seller_fee_basis_points": 950,
+  "image": "https://bafybeihhf3pqhrmlvspcx3fd6lhtb2ao7plri2y2xr6ziehq3oy6m2w2u4.ipfs.nftstorage.link/1991.jpg?ext=jpg",
+  "external_url": "https://polychainmonsters.com",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Exodragon"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Virtual Testing Realm"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Radiant Yellow"
+    },
+    {
+      "trait_type": "Glitter",
+      "value": "Glitter"
+    },
+    {
+      "trait_type": "Horn",
+      "value": "Delta Claw"
+    },
+    {
+      "trait_type": "Celestial",
+      "value": "Celestial"
+    },
+    {
+      "trait_type": "Rank",
+      "value": "772"
+    },
+    {
+      "trait_type": "Rarity Points",
+      "value": "17341"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "mGr29c6NxmCqr6vwLsusC32UMkBocDpyk97DzuNsQDa",
+        "share": 100
+      }
+    ]
+  }
+}
