@@ -1,0 +1,61 @@
+{
+  "name": "Parabellum #1740",
+  "symbol": "BLLUM",
+  "description": "Parabellum NFT",
+  "seller_fee_basis_points": 800,
+  "image": "https://arweave.net/Jd02E6S3P16qIxUas3JANE4q4IcNLbUS00iqjwUbQiU",
+  "external_url": "https://twitter.com/Parabellum_NFT",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Soft Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "solana"
+    },
+    {
+      "trait_type": "Head",
+      "value": "trimmed"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Parabellum"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "shadow"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Thug Mask"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "frozen"
+    },
+    {
+      "trait_type": "ClothOverlays",
+      "value": "None"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "Golden"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "mGr29c6NxmCqr6vwLsusC32UMkBocDpyk97DzuNsQDa",
+        "share": 100
+      }
+    ]
+  }
+}
