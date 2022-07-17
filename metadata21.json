@@ -1,0 +1,48 @@
+{
+  "name": "Ghost Goats #1619",
+  "symbol": "GHOSTGOAT",
+  "description": "All their dreams are dead, so they're roaming around the Solana blockchain looking for hope in the midst of despair.",
+  "seller_fee_basis_points": 880,
+  "image": "https://nftstorage.link/ipfs/Qmew6PJDtckeTrtngUWh5HymAGNbk9a4GyMwDcJnwvJqhm/690.jpg",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Calm Goat"
+    },
+    {
+      "trait_type": "Skins",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Playboy Smoking Jacket"
+    },
+    {
+      "trait_type": "Mouth Accessories",
+      "value": "Green Mist"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "Purple Beanie"
+    },
+    {
+      "trait_type": "Eye Accessories",
+      "value": "Holographic"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "mGr29c6NxmCqr6vwLsusC32UMkBocDpyk97DzuNsQDa",
+        "share": 100
+      }
+    ]
+  }
+}
