@@ -1,0 +1,48 @@
+{
+  "name": "Primate #9868",
+  "symbol": "PRIM",
+  "description": "Collection of 10,000 Primates facilitating a seamless adoption of the web3 space through community fueled ventures and collaborations.",
+  "seller_fee_basis_points": 750,
+  "image": "https://bafybeia6ctkkqzl6p3i7ctyx6rqkxgivimaibyv53i5ixgl3vrnoonevo4.ipfs.nftstorage.link/9867.png?ext=png",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Motorcycle Jacket"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thug Life Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Excited"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "mGr29c6NxmCqr6vwLsusC32UMkBocDpyk97DzuNsQDa",
+        "share": 100
+      }
+    ]
+  }
+}
