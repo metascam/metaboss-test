@@ -1,0 +1,101 @@
+{
+  "name": "Yaku X #6859",
+  "symbol": "YAKU",
+  "description": "YAKU X is the customizable playable avatar of the Yakuverse - Travel the Yakuverse, buy properties, vehicles, clothing and more... Meet other Web3 communities in a cyberpunk universe and enjoy revenue sharing on sales",
+  "seller_fee_basis_points": 777,
+  "image": "https://bafybeic5oldzikzxsy6eatq2cfb3jfbqxdzbsb7vmeu7mbtj4peecl47aq.ipfs.nftstorage.link/6859.jpg?ext=jpg",
+  "external_url": "https://www.yakushima.io",
+  "attributes": [
+    {
+      "trait_type": "DNA",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Steel Skin"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Uchiwa Black"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Yaku Pink"
+    },
+    {
+      "trait_type": "Eyeglasses",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Dead Mask"
+    },
+    {
+      "trait_type": "Earings",
+      "value": "Earrings None"
+    },
+    {
+      "trait_type": "Tattoo or Scar",
+      "value": "Barcode"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mouth None"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Oversized Sweatshirt Lemonade"
+    },
+    {
+      "trait_type": "Weapons",
+      "value": "Weapon None"
+    },
+    {
+      "trait_type": "Overboard",
+      "value": "Rare 1 None"
+    },
+    {
+      "trait_type": "Lightning Neck",
+      "value": "Rare 2 None"
+    },
+    {
+      "trait_type": "Robotics Wings",
+      "value": "Rare 3 None"
+    },
+    {
+      "trait_type": "Cyber Aura Eye",
+      "value": "Rare 4 None"
+    },
+    {
+      "trait_type": "Energy Ball",
+      "value": "Rare 5 None"
+    },
+    {
+      "trait_type": "Lightning heart",
+      "value": "Rare 6 None"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Cyber Red"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "mGr29c6NxmCqr6vwLsusC32UMkBocDpyk97DzuNsQDa",
+        "share": 100
+      }
+    ]
+  }
+}
