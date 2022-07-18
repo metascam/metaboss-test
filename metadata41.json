@@ -1,0 +1,65 @@
+{
+  "name": "Cheddar Block Games #2373",
+  "symbol": "CBG",
+  "description": "This NFT is the Cheddar to your block!",
+  "seller_fee_basis_points": 1000,
+  "image": "https://bafybeielbh5qrasqevbffsefdrkb3hum3zsl66yqu3ok6pfj2t3ktjg3py.ipfs.nftstorage.link/2373.png?ext=png",
+  "external_url": "https://www.cheddarblock.games/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Ape Mouse"
+    },
+    {
+      "trait_type": "Back",
+      "value": "None"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Say Cheese Mofo Tee"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cheddar"
+    },
+    {
+      "trait_type": "Face Bits",
+      "value": "Marley"
+    },
+    {
+      "trait_type": "Other Bits",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blunt"
+    },
+    {
+      "trait_type": "Head Gear",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "DNA",
+      "value": "*0005*1010*2000*3014*4031*5030*6012*7021*8010*"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "mGr29c6NxmCqr6vwLsusC32UMkBocDpyk97DzuNsQDa",
+        "share": 100
+      }
+    ]
+  }
+}
