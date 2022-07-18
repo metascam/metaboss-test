@@ -1,0 +1,44 @@
+{
+  "name": "Art of Mob #8196",
+  "symbol": "AoM",
+  "description": "Hollywood brought glory to the mafia. It's time we do the same to the NFT scene.",
+  "seller_fee_basis_points": 1000,
+  "image": "https://bafybeiesduw3nyha4ext7j5cdprxs7nk7iy4hxkv7xwhet5mkddfamcmhm.ipfs.nftstorage.link/8196.png?ext=png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bubblegum"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Enlightened"
+    },
+    {
+      "trait_type": "Hair Style",
+      "value": "Vito Drills"
+    },
+    {
+      "trait_type": "Hands",
+      "value": "Sunflower"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Kashmir"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "mGr29c6NxmCqr6vwLsusC32UMkBocDpyk97DzuNsQDa",
+        "share": 100
+      }
+    ]
+  }
+}
