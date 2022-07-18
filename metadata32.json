@@ -1,0 +1,40 @@
+{
+  "name": "Lizard #30",
+  "symbol": "LIZARD",
+  "description": "A collective of 4,000 evolved, unique, intelligent, and misunderstood lizards roaming around the Solana ecosystems’ meadows.",
+  "seller_fee_basis_points": 800,
+  "image": "https://nftstorage.link/ipfs/bafybeihomzqu5vj6xos5l6bwty75wm5r44rvkayokd5cp6jr55qznfdndm/29.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Neon Jacket"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Burning Skull"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "mGr29c6NxmCqr6vwLsusC32UMkBocDpyk97DzuNsQDa",
+        "share": 100
+      }
+    ]
+  }
+}
