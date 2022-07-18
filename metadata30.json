@@ -1,0 +1,58 @@
+{
+  "name": "Weeping Angel #1542",
+  "symbol": "TEARS",
+  "description": "A Weeping Angel. Apart of an elemental tribe with strengths and weakness, joining together to create something truly special.",
+  "seller_fee_basis_points": 800,
+  "image": "https://nftstorage.link/ipfs/QmNsYF6n66kAjiWUJp71iXmC1SaNhe5N5oiq62NWEaRyyA/605.png",
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "The Deep Blue"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Elements",
+      "value": "Air"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shoulder Protection"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "Blue Halo"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Skull"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Eagle Staff"
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "value": 730,
+      "display_type": "number",
+      "max_value": 4444
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "mGr29c6NxmCqr6vwLsusC32UMkBocDpyk97DzuNsQDa",
+        "share": 100
+      }
+    ]
+  }
+}
