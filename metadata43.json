@@ -1,0 +1,84 @@
+{
+  "name": "Reels of Change #1678",
+  "symbol": "RoC",
+  "description": "A collection of rebellious robots aiming to revamp the gambling experience by creating immersive and skill based games. Join them in their fight for change and earn $ROCC along their journey.",
+  "seller_fee_basis_points": 850,
+  "image": "https://bafybeicunsof2uidrw2elij7jbe52uxl54n6b3w6w5ey7dyvcbne3r3w5y.ipfs.nftstorage.link/1677.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Skins",
+      "value": "Bicolor"
+    },
+    {
+      "trait_type": "Material",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Candy"
+    },
+    {
+      "trait_type": "Symbol 1",
+      "value": "Jesterhat"
+    },
+    {
+      "trait_type": "Symbol 2",
+      "value": "Clubs"
+    },
+    {
+      "trait_type": "Symbol 3",
+      "value": "Clubs"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Immaculate"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Alt Current"
+    },
+    {
+      "trait_type": "Mouth Accesory",
+      "value": "None"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "None"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "mGr29c6NxmCqr6vwLsusC32UMkBocDpyk97DzuNsQDa",
+        "share": 100
+      }
+    ]
+  }
+}
