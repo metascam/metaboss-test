@@ -1,0 +1,48 @@
+{
+  "name": "Trippin' Ape Tribe #9746",
+  "symbol": "TAT",
+  "description": "10,000 Apes have fallen under the trance of a mysterious yet charismatic leader, Chorles, but don't worry… it's definitely not a cult.",
+  "seller_fee_basis_points": 1000,
+  "image": "https://bafybeidsoo66vrz3m2ikuzzj5g4yamvxwgray7nysflfitbtzxz4yla4ca.ipfs.nftstorage.link/9746.png?ext=png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Swirls"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "I _3 Chorles"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Gold Grill"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wired"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "No Cap"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "mGr29c6NxmCqr6vwLsusC32UMkBocDpyk97DzuNsQDa",
+        "share": 100
+      }
+    ]
+  }
+}
