@@ -1,0 +1,46 @@
+{
+  "name": "Gothic Degen #1931",
+  "symbol": "GD",
+  "description": "Gothic Degens bringing new meta to the SOL ecosystem",
+  "seller_fee_basis_points": 500,
+  "image": "https://testlaunchmynft.mypinata.cloud/ipfs/Qme5Y77N9XdmTy6kY5YQAQ4vz29bVA2WdcoR26bkpGk9kJ/2568.png",
+  "attributes": [
+   {
+      "trait_type": "Background",
+      "value": "Deep Sea"
+    },
+    {
+      "trait_type": "Covenant",
+      "value": "Horses"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Death"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Lion"
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "value": 4243,
+      "display_type": "number",
+      "max_value": 4444
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "mGr29c6NxmCqr6vwLsusC32UMkBocDpyk97DzuNsQDa",
+        "share": 100
+      }
+    ]
+  }
+}
