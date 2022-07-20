@@ -1,0 +1,48 @@
+{
+  "name": "Parrot Hatching",
+  "symbol": "PH",
+  "description": "Parrots are coming to help you become a better investor or earn passive income as a trader.. Investors make better trades.",
+  "seller_fee_basis_points": 500,
+  "image": "https://bafybeih3m3cgsefk2npp27xndwrz6pfgrjkx4254jwkq7zsy52dguhci2m.ipfs.nftstorage.link/0.gif?ext=gif",
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "None"
+    },
+    {
+      "trait_type": "Parrots",
+      "value": "None"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Beaks",
+      "value": "None"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "mGr29c6NxmCqr6vwLsusC32UMkBocDpyk97DzuNsQDa",
+        "share": 100
+      }
+    ]
+  }
+}
