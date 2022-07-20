@@ -1,0 +1,54 @@
+{
+  "name": "Degen Testament #1458",
+  "symbol": "DNTT",
+  "description": "We have come to connect the fighters of all the universes, saints, demons, unknown entities will fight to maintain the balance in the universe. Choose your faction wisely, because the war has only just begun.",
+  "seller_fee_basis_points": 666,
+  "image": "https://nftstorage.link/ipfs/bafybeiddpoqhg2nui4ibxm4vaggzxystziucffvo64qbrxmvip5kyrmvke/511.png",
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "EclipseB"
+    },
+    {
+      "trait_type": "Pets",
+      "value": "Statue"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "FourWingsBlue"
+    },
+    {
+      "trait_type": "Suits",
+      "value": "LilithB"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MetaHornR"
+    },
+    {
+      "trait_type": "Crowns",
+      "value": "BlackAura"
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "value": 3,
+      "display_type": "number",
+      "max_value": 6666
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "mGr29c6NxmCqr6vwLsusC32UMkBocDpyk97DzuNsQDa",
+        "share": 100
+      }
+    ]
+  }
+}
