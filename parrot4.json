@@ -1,0 +1,48 @@
+{
+  "name": "Parrot Tools #1393",
+  "symbol": "PP",
+  "description": "Parrot Tools is a Solana NFT Copy Trading platform. Traders make passive income. Investors make better trades.",
+  "seller_fee_basis_points": 500,
+  "image": "https://bafybeibtzxfkjh2jwap5awlep7xiz35hsdrk76vfgnn3y373ia6prbrvrm.ipfs.nftstorage.link/1393.png?ext=png",
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Parrots",
+      "value": "Macaw Green"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Overalls Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Stoned Red"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Beanie Yellow"
+    },
+    {
+      "trait_type": "Beaks",
+      "value": "Tough Cigar"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "mGr29c6NxmCqr6vwLsusC32UMkBocDpyk97DzuNsQDa",
+        "share": 100
+      }
+    ]
+  }
+}
