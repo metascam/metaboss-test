@@ -1,0 +1,53 @@
+{
+  "name": "Froots #66",
+  "symbol": "FRTS",
+  "description": "A collection of Froots, vibing on Solana.",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/st7YPzlw5s5IkmU9AXhEEKBkcdLeZ5Wwz0J0CT4X6lk?ext=png",
+  "external_url": "https://frootsnft.com/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pastel Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange Bot"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Fireman"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Honk"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Mohawk White"
+    },
+    {
+      "trait_type": "Stem",
+      "value": "None"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "mGr29c6NxmCqr6vwLsusC32UMkBocDpyk97DzuNsQDa",
+        "share": 100
+      }
+    ]
+  }
+}
