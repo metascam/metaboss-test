@@ -1,0 +1,36 @@
+{
+  "name": "Nexus Egg #146",
+  "symbol": "SN",
+  "description": "Kickstarter investment platform for projects whilst offering utility, passive income & profit sharing to holders",
+  "seller_fee_basis_points": 1000,
+  "image": "https://nftstorage.link/ipfs/bafybeieeml7vf6vzmar5jwwjln7fcjelm7fi56tj4p6oimnjrvqpstb4dq/414.gif",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Nexus Lab"
+    },
+    {
+      "trait_type": "Egg",
+      "value": "Alien Egg"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "mGr29c6NxmCqr6vwLsusC32UMkBocDpyk97DzuNsQDa",
+        "share": 100
+      }
+    ]
+  }
+}
