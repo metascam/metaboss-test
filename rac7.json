@@ -1,0 +1,53 @@
+{
+  "name": "Rakkudo #260",
+  "symbol": "Rakkudos",
+  "description": "An evolutionary shift - a collection of 10,000 raccoons brought to you by Shakudo",
+  "seller_fee_basis_points": 600,
+  "image": "https://bafybeiblnbquu7r6b5jcgwfgnltxfsafnnvw2po5rpvhjam4ktav5dmngy.ipfs.nftstorage.link/259.png?ext=png",
+   "external_url": "https://rakkudos.com",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Robin Egg Blue"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Summer Sky"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Red Glow"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Camouflage Bucket Hat"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Round Nerdy"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Protective Vest Black Green T"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Side Tongue"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "mGr29c6NxmCqr6vwLsusC32UMkBocDpyk97DzuNsQDa",
+        "share": 100
+      }
+    ]
+  }
+}
