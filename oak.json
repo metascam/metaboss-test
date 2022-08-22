@@ -1,0 +1,45 @@
+{
+  "name": "Oak Paradise #5104",
+  "symbol": "OAK",
+  "description": "It is always darkest before the dawn.",
+  "seller_fee_basis_points": 770,
+  "image": "https://arweave.net/TCLNeSBYX26W0OKgydyEcyOL7J1II_xKlnuawT2m2KI",
+   "external_url": "https://oparadi.se",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Palm Trees"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Elder"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Toxic"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "FUD Jacket"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "The Coon"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "mGr29c6NxmCqr6vwLsusC32UMkBocDpyk97DzuNsQDa",
+        "share": 100
+      }
+    ]
+  }
+}
