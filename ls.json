@@ -1,0 +1,81 @@
+{
+  "name": "LS: Sinister Squirrel Syn #1059",
+  "symbol": "LS",
+  "description": "Liberty Square: The Sinister Squirrel Syndicate is a collection of 9,999 NFTs. #gitrekt",
+  "seller_fee_basis_points": 440,
+  "image": "https://arweave.net/-6OuJeZ_8ovo0FVdvfRJd2Lc52N-ZxnuXLbX1LL3mqE?ext=png",
+  "external_url": "https://www.libertysquare.io",
+  "attributes": [
+    {
+      "trait_type": "1- Gang",
+      "value": "The Reapers"
+    },
+    {
+      "trait_type": "2- Class",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "4- Primary Background",
+      "value": "Vintage Pink"
+    },
+    {
+      "trait_type": "6- Splatter Pattern",
+      "value": "Critical"
+    },
+    {
+      "trait_type": "7- Primary Weapon",
+      "value": "Slash"
+    },
+    {
+      "trait_type": "8- Secondary Weapon",
+      "value": "Guns Up AK"
+    },
+    {
+      "trait_type": "9- Back Weapon",
+      "value": "Kitana"
+    },
+    {
+      "trait_type": "10- Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "15- Chest Gear",
+      "value": "Black Tactical Vest"
+    },
+    {
+      "trait_type": "17- Jacket Type",
+      "value": "Black Tactical Suit"
+    },
+    {
+      "trait_type": "19- Eye Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "21- Eye Accessory",
+      "value": "None"
+    },
+    {
+      "trait_type": "24- Head Accessory",
+      "value": "Grey Engineer Hat"
+    },
+    {
+      "trait_type": "25- Tail",
+      "value": "Standard"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "mGr29c6NxmCqr6vwLsusC32UMkBocDpyk97DzuNsQDa",
+        "share": 100
+      }
+    ]
+  }
+}
