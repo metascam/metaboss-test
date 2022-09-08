@@ -1,0 +1,72 @@
+{
+  "name": "ABC #7380",
+  "symbol": "ABC",
+  "description": "ABC - Abracadabra\n\nA collection of 10K immutable NFTs, 0% royalties.\n\nMade to remind you of how fun things were when we were kids, before growing up - let’s never stop having fun! ",
+  "seller_fee_basis_points": 0,
+  "image": "https://arweave.net/h5ZvmqPziKU92chfHRl--khgxN3x9J1VntImHjcY9RI",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "light green"
+    },
+    {
+      "trait_type": "special",
+      "value": "nothing"
+    },
+    {
+      "trait_type": "body",
+      "value": "blueskin"
+    },
+    {
+      "trait_type": "hair",
+      "value": "purple"
+    },
+    {
+      "trait_type": "eye",
+      "value": "sleep"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "smile"
+    },
+    {
+      "trait_type": "shirt",
+      "value": "blueshirt"
+    },
+    {
+      "trait_type": "shoes",
+      "value": "greenshoes"
+    },
+    {
+      "trait_type": "acc1",
+      "value": "headband"
+    },
+    {
+      "trait_type": "acc2",
+      "value": "broom"
+    },
+    {
+      "trait_type": "acc3",
+      "value": "nothing"
+    },
+    {
+      "trait_type": "base",
+      "value": "witch"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "mGr29c6NxmCqr6vwLsusC32UMkBocDpyk97DzuNsQDa",
+        "share": 100
+      }
+    ]
+  }
+}
