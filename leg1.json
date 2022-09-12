@@ -1,0 +1,55 @@
+{
+  "name": "Legend #1586",
+  "symbol": "LOTS",
+  "description": "Legend #1586 - 3333 Legends coming from the shadows. 0% Royalties",
+  "seller_fee_basis_points": 0,
+  "image": "https://nftstorage.link/ipfs/bafybeidltwsj7njz6nkodwobecmkdbv4ascho7jd7lderemp4iqduzvm74/3075.jpeg",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Shadow"
+    },
+    {
+      "trait_type": "Character",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Spider"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Mask Of Sacrifice"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Blue Branch"
+    },
+    {
+      "trait_type": "Head Accessories",
+      "value": "Bird Skull"
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "value": 6,
+      "display_type": "number",
+      "max_value": 3333
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "mGr29c6NxmCqr6vwLsusC32UMkBocDpyk97DzuNsQDa",
+        "share": 100
+      }
+    ]
+  }
+}
