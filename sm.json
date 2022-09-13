@@ -1,0 +1,56 @@
+{
+  "name": " #Space Monkeys #887",
+  "symbol": "SPACE",
+  "description": "10,000 monkeys blasting off at the speed of light!",
+  "seller_fee_basis_points": 0,
+  "image": "https://arweave.net/UIu9t6Cdr9qZ_-YE45-LIvpnHFjQabeaQ4VjAwY_B3o?ext=gif",
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "Black Stars on Light Purple"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Magma"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "White"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Dark Blue Suit"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Black Sunglasses"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Silver Crown"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Helmet"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "mGr29c6NxmCqr6vwLsusC32UMkBocDpyk97DzuNsQDa",
+        "share": 100
+      }
+    ]
+  }
+}
