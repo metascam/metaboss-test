@@ -1,0 +1,60 @@
+{
+  "name": "Bounty Hunter #1399",
+  "symbol": "S3BH",
+  "description": "Evolve, Plug in, Switch on, Join the Hunt & Stake your Claim on the Future - Now. Bounty Hunters are a collection of 8000 unique NFT's on the solana blockchain",
+  "seller_fee_basis_points": 1000,
+  "image": "https://bafybeigffxfw52puqneh656prl3pvpjpchr3gmj5qkxtx6gafkaiouadvi.ipfs.nftstorage.link/1399.png?ext=png",
+  "collection": {
+    "name": "Simpl3r: Bounty Hunters",
+    "family": "Simpl3r: Bounty Hunters"
+  },
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "Blue Mist"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Crystal Rainbow2"
+    },
+    {
+      "trait_type": "Skins attribute",
+      "value": "Momma Wouldn't Like It Tattoo"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Chain Feat. Ledger"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Blue Jackee Collar-Free"
+    },
+    {
+      "trait_type": "Mouth & Facial Hair",
+      "value": "Viking Beard"
+    },
+    {
+      "trait_type": "Headwear & Hair",
+      "value": "Blondey with Headband"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Brown"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "mGr29c6NxmCqr6vwLsusC32UMkBocDpyk97DzuNsQDa",
+        "share": 100
+      }
+    ]
+  }
+}
