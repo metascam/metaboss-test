@@ -1,0 +1,58 @@
+{
+  "name": "sharx #2639",
+  "symbol": "sharx",
+  "description": "Sharx are your newest frens ready to take over the NFT world. Feed $FISHY => grow into whale sharx. Earn, trade, celebrate! ❤ https://sharky.fi",
+  "seller_fee_basis_points": 790,
+  "image": "https://arweave.net/7OybTu4EnGVJYuEYpTqfgCtmFYa4WGyY6yXQMqy05f0?ext=png",
+  "external_url": "https://sharky.fi",
+  "attributes": [
+    {
+      "trait_type": "attributeCount",
+      "value": 5
+    },
+    {
+      "trait_type": "Background",
+      "value": "gradient - rainbow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "ombre - popsicle"
+    },
+    {
+      "trait_type": "Makeup",
+      "value": "harajuku"
+    },
+    {
+      "trait_type": "Wearable",
+      "value": "shirt - solana"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "cat ears - pink"
+    },
+    {
+      "trait_type": "Face",
+      "value": "silly"
+    },
+    {
+      "trait_type": "Prop",
+      "value": "music - bongos"
+    }
+  ],
+  "properties": {
+    "edition": 2639,
+    "files": [
+      {
+        "uri": "https://arweave.net/7OybTu4EnGVJYuEYpTqfgCtmFYa4WGyY6yXQMqy05f0?ext=png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "mGr29c6NxmCqr6vwLsusC32UMkBocDpyk97DzuNsQDa",
+        "share": 100
+      }
+    ]
+  }
+}
